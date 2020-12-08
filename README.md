@@ -12,7 +12,7 @@
 
 ## Run the neo4j server
 
-
+    docker-compose up -d
 
 ## Usage to get the Python client ready
 
